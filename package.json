@@ -1,6 +1,6 @@
 {
   "name": "orim.github.io",
-  "private": true,
+  "homepage": "https://rohit-xo21.github.io/orim.github.io",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
+    "gh-pages": "^6.3.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "tailwindcss": "^4.1.12"
