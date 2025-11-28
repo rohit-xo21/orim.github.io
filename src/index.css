@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a1a1a; /* Dark background to make the font pop, optional but looks better */
+  color: white;
+  font-family: 'Bungee Spice', serif;
+  font-size: 48px;
+  overflow: hidden;
+}
+
+.App {
+  text-align: center;
+}
+
+.name {
+  font-family: 'Bungee Spice', serif;
+  font-weight: normal; /* Bungee Spice is a display font, usually doesn't need bold */
+  margin: 0;
+}
